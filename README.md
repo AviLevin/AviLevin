@@ -39,7 +39,7 @@
 
 ---
 [gmail]: mailto:avremi89@gmail.com
-[linkedin]: https://www.linkedin.com/in/avremi-levin-86a192a3/
+[linkedin]: https://www.linkedin.com/in/avi-levin-86a192a3/
 
 [html]: "https://en.wikipedia.org/wiki/HTML"
 [css]: "https://en.wikipedia.org/wiki/CSS"
